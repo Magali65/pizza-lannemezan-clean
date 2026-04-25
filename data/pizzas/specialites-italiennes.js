@@ -3,8 +3,8 @@ module.exports = [
     name: 'Bolzano',
     description: 'Tomate, speck (jambon italien), parmesan, gorgonzola, tomates, pesto, roquette, mozzarella',
     prices: {
-      moyenne: 13.5,
-      grande: 15.5
+      moyenne: 14.5,
+      grande: 16.5
     }
   }
 ]
