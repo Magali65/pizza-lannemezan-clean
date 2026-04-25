@@ -80,7 +80,11 @@
           </column>
           <column sm="3" md="4">
             <h3 class="Title2"> Offre spéciale </h3>
-            <p class="offre"> 5 pizzas au choix à 52€ (Ø 29cm) <br> 10€ la pizza supplémentaire </p> 
+            <p class="offre"> 5 pizzas au choix à 55€ (Ø 29cm) <br> 10€ la pizza supplémentaire </p> 
+          </column>
+          <column sm="3" md="4">
+            <h3 class="Title2">Carte de fidélité </h3>
+            <p class="offre"> 10€ de remise à la 11e pizza </p> 
           </column>
         </row>
       </container>
