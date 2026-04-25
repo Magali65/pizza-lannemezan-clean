@@ -3,42 +3,42 @@ module.exports = [
     name: 'La margharita',
     description: 'Tomate, olives noires, mozzarella',
     prices: {
-      plaque: 29
+      plaque: 30
     }
   },
   {
     name: 'La provençale',
     description: 'Tomate, anchois, olives noires, mozzarella',
     prices: {
-      plaque: 33
+      plaque: 34
     }
   },
   {
     name: 'La romana',
     description: 'Tomate, jambon blanc, mozzarella',
     prices: {
-      plaque: 33
+      plaque: 34
     }
   },
   {
     name: 'La reine',
     description: 'Tomate, jambon blanc, champignons, olives noires, mozzarella',
     prices: {
-      plaque: 37
+      plaque: 38
     }
   },
   {
     name: 'La fromagère',
     description: 'Tomate ou crème fraîche, 4 fromages',
     prices: {
-      plaque: 39
+      plaque: 40
     }
   },
   {
     name: 'Quiche lorraine',
     description: 'Lait, œufs, crème fraîche, lardons, jambon blanc',
     prices: {
-      plaque: 43
+      plaque: 44
     }
   }
 ]
