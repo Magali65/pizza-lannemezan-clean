@@ -1,4 +1,5 @@
 module.exports = {
+  buildDir: 'nuxt-build',
   target: 'static',
   head: {
     title: 'Pizza Au Feu De Bois - LANNEMEZAN',
