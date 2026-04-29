@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pizzas/sucrees-salees", {data:[{},{}],fetch:{},mutations:[]});

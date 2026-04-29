@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/plaques/salees", {data:[{},{}],fetch:{},mutations:[]});
